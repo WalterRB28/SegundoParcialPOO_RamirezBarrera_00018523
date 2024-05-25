@@ -15,6 +15,6 @@ public class n1co implements Pago{
 
     @Override
     public void Pagar() {
-        System.out.println(name + ":" + "n1co ha pagado" );
+        System.out.println(name + ":" + "n1co ha pagado :)" );
     }
 }
